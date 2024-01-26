@@ -23,5 +23,5 @@ public class Medical {
          this.hour = hour;
      }
 
-    }
-}
+
+}}
