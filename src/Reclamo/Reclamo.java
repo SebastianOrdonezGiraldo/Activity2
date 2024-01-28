@@ -1,6 +1,5 @@
 package Reclamo;
 
-import java.util.SplittableRandom;
 
 public class Reclamo {
     //Atributos
