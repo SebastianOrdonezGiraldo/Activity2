@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Crear citas okey">
-      <change afterPath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectanguloMain.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Solucion ejercicio 7">
+      <change afterPath="$PROJECT_DIR$/src/Reclamo/Reclamo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Reclamo/ReclamoMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Medical/Medical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medical/Medical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectangulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectanguloMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectanguloMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/clase_25_01_Instancias",
+    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/Activity2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -121,7 +122,8 @@
       <updated>1706239800796</updated>
       <workItem from="1706239802068" duration="3530000" />
       <workItem from="1706305884965" duration="145000" />
-      <workItem from="1706306091575" duration="7245000" />
+      <workItem from="1706306091575" duration="7961000" />
+      <workItem from="1706456583978" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -155,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706312749986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solucion ejercicio 7">
+      <option name="closed" value="true" />
+      <created>1706313403187</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1706313403187</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +176,7 @@
     <MESSAGE value="Posible solucion ejercicio 1" />
     <MESSAGE value="Posible solucion ejercicio 2" />
     <MESSAGE value="Crear citas okey" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crear citas okey" />
+    <MESSAGE value="Solucion ejercicio 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solucion ejercicio 7" />
   </component>
 </project>

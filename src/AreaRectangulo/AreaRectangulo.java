@@ -2,9 +2,9 @@ package AreaRectangulo;
 
 public class AreaRectangulo {
     int base;
-    int altura;
+    int height;
 
     public int calcularArea(){
-        return (this.base * this.altura);
+        return (this.base * this.height);
     }
 }

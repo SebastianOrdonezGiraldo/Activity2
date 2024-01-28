@@ -7,12 +7,12 @@ public class AreaRectanguloMain {
         AreaRectangulo area = new AreaRectangulo();
         Scanner lector = new Scanner(System.in);
 
-        System.out.print("Ingrese la base :");
+        System.out.print("Enter the base:");
         area.base = lector.nextInt();
 
-        System.out.print("Ingrese la altura :");
-        area.altura = lector.nextInt();
+        System.out.print("Enter the height :");
+        area.height = lector.nextInt();
 
-        System.out.println("El area es:" + area.calcularArea());
+        System.out.println("The area is:" + area.calcularArea());
     }
 }
