@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio envio">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio10/Ejercicio10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio10/Ejercicio10Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PagoEmpleado/Pago.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PagoEmpleado/PagoMain.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 10 finalizado">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio11/Ejercicio11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio11/Ejerciciomain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +39,7 @@
   "keyToString": {
     "Application.AreaRectanguloMain.executor": "Run",
     "Application.Ejercicio10Main.executor": "Run",
+    "Application.Ejerciciomain.executor": "Run",
     "Application.EnvioMain.executor": "Run",
     "Application.Exercise10Main.executor": "Run",
     "Application.MedicalMain.executor": "Run",
@@ -60,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio10Main">
+  <component name="RunManager" selected="Application.Ejerciciomain">
     <configuration name="AreaRectanguloMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AreaRectangulo.AreaRectanguloMain" />
       <module name="Activity2" />
@@ -80,6 +79,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ejercicio10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejerciciomain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio11.Ejerciciomain" />
+      <module name="Activity2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,26 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedicalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medical.MedicalMain" />
-      <module name="Activity2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Medical.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejerciciomain" />
         <item itemvalue="Application.Ejercicio10Main" />
         <item itemvalue="Application.Exercise10Main" />
         <item itemvalue="Application.EnvioMain" />
         <item itemvalue="Application.AreaRectanguloMain" />
-        <item itemvalue="Application.MedicalMain" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +155,7 @@
       <workItem from="1706306091575" duration="7961000" />
       <workItem from="1706456583978" duration="1652000" />
       <workItem from="1706458255909" duration="418000" />
-      <workItem from="1706458682819" duration="3962000" />
+      <workItem from="1706458682819" duration="4866000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -214,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706463461351</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Ejercicio 10 finalizado">
+      <option name="closed" value="true" />
+      <created>1706471569276</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1706471569276</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +235,7 @@
     <MESSAGE value="Solucion ejercicio 7" />
     <MESSAGE value="Ajustes area" />
     <MESSAGE value="Ejercicio envio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio envio" />
+    <MESSAGE value="Ejercicio 10 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 10 finalizado" />
   </component>
 </project>
