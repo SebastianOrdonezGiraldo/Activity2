@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 12 finalizado">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio13/Ejercicio13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio13/EjercicioMain.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 13 finalizado">
+      <change afterPath="$PROJECT_DIR$/src/Notas/Notas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Notas/NotasMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ejercicio12/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio12/Ejercicio12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +158,7 @@
       <workItem from="1706456583978" duration="1652000" />
       <workItem from="1706458255909" duration="418000" />
       <workItem from="1706458682819" duration="7620000" />
-      <workItem from="1706629320878" duration="919000" />
+      <workItem from="1706629320878" duration="2642000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -241,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706474059026</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Ejercicio 13 finalizado">
+      <option name="closed" value="true" />
+      <created>1706630344777</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706630344777</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +265,7 @@
     <MESSAGE value="Ejercicio 10 finalizado" />
     <MESSAGE value="Ejercicio 11 finalizado" />
     <MESSAGE value="Ejercicio 12 finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 12 finalizado" />
+    <MESSAGE value="Ejercicio 13 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 13 finalizado" />
   </component>
 </project>
