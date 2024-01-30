@@ -15,7 +15,7 @@ public class UserMain {
         System.out.println(user.allowAcces());
         System.out.println("Check status");
         user.userBase = lector.nextBoolean();
-        System.out.println(user.userBase);
+        System.out.println(user.userBase + user.validateStatus());
 
     }
 }

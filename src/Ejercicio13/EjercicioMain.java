@@ -8,12 +8,9 @@ public class EjercicioMain {
         Scanner lector = new Scanner(System.in);
         System.out.print("Insert a number:");
         ejercicio13.number = lector.nextInt();
+        System.out.println(ejercicio13.calc());
 
-        if (ejercicio13.number % 2 == 0){
-            System.out.println("the number " + ejercicio13.number + " is even.");
-        }else {
-            System.out.println("The number " + ejercicio13.number + " is odd.");
-        }
+
 
 
 
