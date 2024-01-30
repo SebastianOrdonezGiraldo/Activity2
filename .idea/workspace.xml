@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 11 finalizado">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio12/Ejercicio12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio12/EjercicioMain.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 12 finalizado">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio13/Ejercicio13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio13/EjercicioMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio12/Ejercicio12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio12/Ejercicio12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
   "keyToString": {
     "Application.AreaRectanguloMain.executor": "Run",
     "Application.Ejercicio10Main.executor": "Run",
+    "Application.Ejercicio13.EjercicioMain.executor": "Run",
     "Application.EjercicioMain.executor": "Run",
     "Application.Ejerciciomain.executor": "Run",
     "Application.EnvioMain.executor": "Run",
@@ -60,13 +62,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EjercicioMain">
+  <component name="RunManager" selected="Application.Ejercicio13.EjercicioMain">
     <configuration name="Ejercicio10Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio10.Ejercicio10Main" />
       <module name="Activity2" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ejercicio10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio13.EjercicioMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio13.EjercicioMain" />
+      <module name="Activity2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnvioMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Envio.EnvioMain" />
-      <module name="Activity2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Envio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Exercise10Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio10.Exercise10Main" />
       <module name="Activity2" />
@@ -128,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio13.EjercicioMain" />
         <item itemvalue="Application.EjercicioMain" />
         <item itemvalue="Application.Ejerciciomain" />
         <item itemvalue="Application.Ejercicio10Main" />
         <item itemvalue="Application.Exercise10Main" />
-        <item itemvalue="Application.EnvioMain" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +158,8 @@
       <workItem from="1706306091575" duration="7961000" />
       <workItem from="1706456583978" duration="1652000" />
       <workItem from="1706458255909" duration="418000" />
-      <workItem from="1706458682819" duration="6540000" />
+      <workItem from="1706458682819" duration="7620000" />
+      <workItem from="1706629320878" duration="919000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -230,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706472306395</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Ejercicio 12 finalizado">
+      <option name="closed" value="true" />
+      <created>1706474059026</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706474059026</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +257,7 @@
     <MESSAGE value="Ejercicio envio" />
     <MESSAGE value="Ejercicio 10 finalizado" />
     <MESSAGE value="Ejercicio 11 finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 11 finalizado" />
+    <MESSAGE value="Ejercicio 12 finalizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 12 finalizado" />
   </component>
 </project>
