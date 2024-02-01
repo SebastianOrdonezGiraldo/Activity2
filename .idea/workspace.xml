@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 13 correccion">
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio user correccion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Envio/Envio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Envio/Envio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Envio/EnvioMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Envio/EnvioMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Medical/Medical.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medical/Medical.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Medical/MedicalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Medical/MedicalMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UserMain">
+  <component name="RunManager" selected="Application.MedicalMain">
     <configuration name="Ejercicio13.EjercicioMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio13.EjercicioMain" />
       <module name="Activity2" />
@@ -130,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MedicalMain" />
         <item itemvalue="Application.UserMain" />
         <item itemvalue="Application.EnvioMain" />
-        <item itemvalue="Application.MedicalMain" />
         <item itemvalue="Application.Ejercicio13.EjercicioMain" />
         <item itemvalue="Application.EjercicioMain" />
       </list>
@@ -162,7 +161,7 @@
       <workItem from="1706629320878" duration="2800000" />
       <workItem from="1706648436280" duration="355000" />
       <workItem from="1706648811157" duration="3022000" />
-      <workItem from="1706745774534" duration="2223000" />
+      <workItem from="1706745774534" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -268,7 +267,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706650103535</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ejercicio user correccion">
+      <option name="closed" value="true" />
+      <created>1706748297058</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1706748297058</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,6 +295,7 @@
     <MESSAGE value="Ejercicio 13 finalizado" />
     <MESSAGE value="Creando ejercicio 14." />
     <MESSAGE value="Ejercicio 13 correccion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 13 correccion" />
+    <MESSAGE value="Ejercicio user correccion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio user correccion" />
   </component>
 </project>

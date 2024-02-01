@@ -1,27 +1,49 @@
 package Medical;
 
-import java.util.Scanner;
 
 
 
-
+import javax.swing.*;
 
 public class MedicalMain {
-    //Metodo
-    public static void main(String[] args) {
-        Medical schedule = new Medical();
-        Scanner lector = new Scanner(System.in);
-        System.out.println("Bienvenido al sistema de citas medicas");
-        System.out.print("Nombre del paciente:");
-        schedule.userName = lector.nextLine();
-        System.out.print("Ingrese hora deseada:");
-        schedule.hour = lector.nextFloat();
-        System.out.print("Ingrese fecha deseada formato 00/00/00:");
-        schedule.date = lector.next();
-        System.out.println("Cita agendada correctamente");
-        System.out.println("A nombre de: " + schedule.userName);
-        System.out.println("hora: " + schedule.hour);
-        System.out.println("fecha: " + schedule.date);
-    }
+    private static Medical schedule = new Medical();
 
+    public static void main(String[] args) {
+        while (true) {
+            Object[] options = {"Agendar cita", "Cambiar la hora de la cita", "Salir"};
+            int n = JOptionPane.showOptionDialog(null,
+                    "Bienvenido al sistema de citas medicas",
+                    "Sistema de Citas Medicas",
+                    JOptionPane.YES_NO_CANCEL_OPTION,
+                    JOptionPane.QUESTION_MESSAGE,
+                    null,
+                    options,
+                    options[2]);
+
+            switch (n) {
+                case 0:
+                    schedule.userName = JOptionPane.showInputDialog("Nombre del paciente:");
+                    schedule.hour = JOptionPane.showInputDialog("Ingrese hora deseada:");
+                    schedule.date = JOptionPane.showInputDialog("Ingrese fecha deseada formato 00/00/00:");
+                    JOptionPane.showMessageDialog(null, "Cita agendada correctamente\n" +
+                            "A nombre de: " + schedule.userName + "\n" +
+                            "hora: " + schedule.hour + "\n" +
+                            "fecha: " + schedule.date);
+                    break;
+                case 1:
+                    String nuevoValor = JOptionPane.showInputDialog("Ingrese la hora deseada : ");
+                    schedule.hour = nuevoValor;
+                    JOptionPane.showMessageDialog(null, "La nueva hora es: " + schedule.hour);
+                    break;
+                case 2:
+                    JOptionPane.showMessageDialog(null, "Saliendo del sistema de citas medicas");
+                    System.exit(0);
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
 }
+
+
