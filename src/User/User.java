@@ -1,24 +1,24 @@
 package User;
 
 public class User {
-        public Boolean userBase = true;
+    public String userBase = "Arle";
 
-        public  int passwordBase = 12345;
+    public  int passwordBase = 12345;
 
 
-        public String validateStatus(){
-        if (this.userBase.equals(true)){
+    public String validateStatus(){
+        if (this.userBase.equals(userBase)){
             return "Allowed";
         }else{
-return"Not allowed";
+            return"Not allowed";
         }
     }
     public String  allowAcces(){
-            if(passwordBase == 12345){
-        return "Allowed";
-            }else{
-                return "not allowed";
-            }
+        if(passwordBase == 12345){
+            return "Allowed";
+        }else{
+            return "not allowed";
+        }
     }
 }
 

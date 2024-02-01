@@ -14,5 +14,7 @@ public class EnvioMain {
         envio.peso = lector.nextInt();
 
         System.out.println("el costo de su envio es:" + "$" +envio.calcularCosto());
+
+        System.out.println("estado del envio= " + envio.estadoEnvio);
     }
 }
