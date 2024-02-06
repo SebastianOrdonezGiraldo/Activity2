@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo multiples archivos">
-      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/LoanMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/loan.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo ejercicio 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrestamoLibro/prestamo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrestamoLibro/prestamoMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PagoEmpleado/Pago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PagoEmpleado/Pago.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PagoEmpleado/PagoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PagoEmpleado/PagoMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +48,7 @@
     "Application.Exercise10Main.executor": "Run",
     "Application.LoanMain.executor": "Run",
     "Application.MedicalMain.executor": "Run",
+    "Application.PagoMain.executor": "Run",
     "Application.ReclamoMain.executor": "Run",
     "Application.UserMain.executor": "Run",
     "Application.prestamoMain.executor": "Run",
@@ -68,20 +67,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LoanMain">
-    <configuration name="Ejercicio15Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio15.Ejercicio15Main" />
-      <module name="Activity2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ejercicio15.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PagoMain">
     <configuration name="Ejercicio16Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio16.Ejercicio16Main" />
       <module name="Activity2" />
@@ -101,6 +87,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PrestamoLibro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PagoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PagoEmpleado.PagoMain" />
+      <module name="Activity2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PagoEmpleado.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PagoMain" />
         <item itemvalue="Application.LoanMain" />
         <item itemvalue="Application.ReclamoMain" />
         <item itemvalue="Application.UserMain" />
         <item itemvalue="Application.Ejercicio16Main" />
-        <item itemvalue="Application.Ejercicio15Main" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +170,7 @@
       <workItem from="1706745774534" duration="3850000" />
       <workItem from="1706788983156" duration="33000" />
       <workItem from="1706803923500" duration="971000" />
-      <workItem from="1707180893858" duration="6119000" />
+      <workItem from="1707180893858" duration="8574000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -301,7 +300,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707182876380</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Subiendo ejercicio 3">
+      <option name="closed" value="true" />
+      <created>1707187104890</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707187104890</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +331,7 @@
     <MESSAGE value="Ejercicio user correccion" />
     <MESSAGE value="Ejercicio 2" />
     <MESSAGE value="Subiendo multiples archivos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subiendo multiples archivos" />
+    <MESSAGE value="Subiendo ejercicio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subiendo ejercicio 3" />
   </component>
 </project>
