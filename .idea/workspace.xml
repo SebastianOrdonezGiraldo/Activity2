@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Ejercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio15/Ejercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio15/Ejercicio15Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio16/Ejercicio16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio16/Ejercicio16Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/prestamo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/prestamoMain.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo multiples archivos">
+      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/LoanMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrestamoLibro/loan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaRectangulo/AreaRectangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reclamo/Reclamo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reclamo/Reclamo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reclamo/ReclamoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reclamo/ReclamoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrestamoLibro/prestamo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrestamoLibro/prestamoMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +48,11 @@
     "Application.Ejerciciomain.executor": "Run",
     "Application.EnvioMain.executor": "Run",
     "Application.Exercise10Main.executor": "Run",
+    "Application.LoanMain.executor": "Run",
     "Application.MedicalMain.executor": "Run",
     "Application.ReclamoMain.executor": "Run",
     "Application.UserMain.executor": "Run",
+    "Application.prestamoMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -71,7 +68,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReclamoMain">
+  <component name="RunManager" selected="Application.LoanMain">
     <configuration name="Ejercicio15Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio15.Ejercicio15Main" />
       <module name="Activity2" />
@@ -98,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MedicalMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Medical.MedicalMain" />
+    <configuration name="LoanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrestamoLibro.LoanMain" />
       <module name="Activity2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Medical.*" />
+          <option name="PATTERN" value="PrestamoLibro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LoanMain" />
         <item itemvalue="Application.ReclamoMain" />
         <item itemvalue="Application.UserMain" />
         <item itemvalue="Application.Ejercicio16Main" />
         <item itemvalue="Application.Ejercicio15Main" />
-        <item itemvalue="Application.MedicalMain" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +171,7 @@
       <workItem from="1706745774534" duration="3850000" />
       <workItem from="1706788983156" duration="33000" />
       <workItem from="1706803923500" duration="971000" />
-      <workItem from="1707180893858" duration="1773000" />
+      <workItem from="1707180893858" duration="6119000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -296,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706749526990</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Subiendo multiples archivos">
+      <option name="closed" value="true" />
+      <created>1707182876380</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707182876380</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,6 +323,7 @@
     <MESSAGE value="Ejercicio 13 correccion" />
     <MESSAGE value="Ejercicio user correccion" />
     <MESSAGE value="Ejercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2" />
+    <MESSAGE value="Subiendo multiples archivos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subiendo multiples archivos" />
   </component>
 </project>
