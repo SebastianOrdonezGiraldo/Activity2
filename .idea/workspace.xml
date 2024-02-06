@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo ejercicio 3">
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo ejercicio 6">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Ejercicio14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio14/Ejercicio14Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PagoEmpleado/Pago.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PagoEmpleado/Pago.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PagoEmpleado/PagoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PagoEmpleado/PagoMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notas/Notas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Notas/NotasMain.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,45 +37,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AreaRectanguloMain.executor": "Run",
-    "Application.Ejercicio10Main.executor": "Run",
-    "Application.Ejercicio13.EjercicioMain.executor": "Run",
-    "Application.Ejercicio15Main.executor": "Run",
-    "Application.Ejercicio16Main.executor": "Run",
-    "Application.EjercicioMain.executor": "Run",
-    "Application.Ejerciciomain.executor": "Run",
-    "Application.EnvioMain.executor": "Run",
-    "Application.Exercise10Main.executor": "Run",
-    "Application.LoanMain.executor": "Run",
-    "Application.MedicalMain.executor": "Run",
-    "Application.PagoMain.executor": "Run",
-    "Application.ReclamoMain.executor": "Run",
-    "Application.UserMain.executor": "Run",
-    "Application.prestamoMain.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/sebas/IdeaProjects/Activity2",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AreaRectanguloMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio10Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio13.EjercicioMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio15Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejercicio16Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EjercicioMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ejerciciomain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnvioMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise10Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoanMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MedicalMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PagoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReclamoMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.prestamoMain.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sebas/IdeaProjects/Activity2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.PagoMain">
-    <configuration name="Ejercicio16Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ejercicio16.Ejercicio16Main" />
+}</component>
+  <component name="RunManager" selected="Application.Ejercicio14Main">
+    <configuration name="Ejercicio14Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio14.Ejercicio14Main" />
       <module name="Activity2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ejercicio16.*" />
+          <option name="PATTERN" value="Ejercicio14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio14Main" />
         <item itemvalue="Application.PagoMain" />
         <item itemvalue="Application.LoanMain" />
         <item itemvalue="Application.ReclamoMain" />
         <item itemvalue="Application.UserMain" />
-        <item itemvalue="Application.Ejercicio16Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +172,8 @@
       <workItem from="1706745774534" duration="3850000" />
       <workItem from="1706788983156" duration="33000" />
       <workItem from="1706803923500" duration="971000" />
-      <workItem from="1707180893858" duration="8574000" />
+      <workItem from="1707180893858" duration="9307000" />
+      <workItem from="1707235415027" duration="1931000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -308,7 +311,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707187104890</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Subiendo ejercicio 6">
+      <option name="closed" value="true" />
+      <created>1707189692608</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707189692608</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -332,6 +343,7 @@
     <MESSAGE value="Ejercicio 2" />
     <MESSAGE value="Subiendo multiples archivos" />
     <MESSAGE value="Subiendo ejercicio 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subiendo ejercicio 3" />
+    <MESSAGE value="Subiendo ejercicio 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subiendo ejercicio 6" />
   </component>
 </project>
