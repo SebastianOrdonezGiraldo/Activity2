@@ -3,19 +3,19 @@ package Reclamo;
 
 public class Reclamo {
     //Atributos
-    int claimNumber;
-    String namePerson;
-    String issue;
-    String description;
-    String claimStatus;
+    public int claimNumber;
+    public String personName;
+    public String subject;
+    public String description;
+    public String claimStatus;
 
-    public class validateClaimStatus{
-        public String claimStatus;
-        public String namePerson;
 
-        public validateClaimStatus(String claimStatus, String namePerson){
-            this.namePerson = namePerson;
-            this.claimStatus = claimStatus;
-        }
+    public Reclamo() {
+        this.claimNumber = 0;
+        this.personName = "";
+        this.subject = "";
+        this.description = "";
+        this.claimStatus = "Pendiente";
     }
+
 }

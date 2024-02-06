@@ -5,6 +5,6 @@ public class AreaRectangulo {
     int height;
 
     public int calcularArea(){
-        return (this.base * this.height);
+        return (this.base * this.height) /2;
     }
 }
