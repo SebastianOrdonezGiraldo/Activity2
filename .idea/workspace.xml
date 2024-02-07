@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo ejercicio 14">
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio17/Ejercicio17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ejercicio17/Ejercicio17Main.java" afterDir="false" />
+    <list default="true" id="934517ad-2eb9-4172-a70a-f8d4ef080f67" name="Changes" comment="Subiendo ejercicio 17">
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio18/Ejercicio18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio18/Ejercicio18Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,8 @@
     "Application.Ejercicio14Main.executor": "Run",
     "Application.Ejercicio15Main.executor": "Run",
     "Application.Ejercicio16Main.executor": "Run",
+    "Application.Ejercicio17Main.executor": "Run",
+    "Application.Ejercicio18Main.executor": "Run",
     "Application.EjercicioMain.executor": "Run",
     "Application.Ejerciciomain.executor": "Run",
     "Application.EnvioMain.executor": "Run",
@@ -68,7 +70,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ejercicio17Main">
+  <component name="RunManager" selected="Application.Ejercicio18Main">
     <configuration name="Ejercicio14Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ejercicio14.Ejercicio14Main" />
       <module name="Activity2" />
@@ -88,6 +90,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ejercicio17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ejercicio18Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejercicio18.Ejercicio18Main" />
+      <module name="Activity2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejercicio18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,26 +136,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReclamoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reclamo.ReclamoMain" />
-      <module name="Activity2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Reclamo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio18Main" />
         <item itemvalue="Application.Ejercicio17Main" />
         <item itemvalue="Application.Ejercicio14Main" />
         <item itemvalue="Application.PagoMain" />
         <item itemvalue="Application.LoanMain" />
-        <item itemvalue="Application.ReclamoMain" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +174,8 @@
       <workItem from="1706788983156" duration="33000" />
       <workItem from="1706803923500" duration="971000" />
       <workItem from="1707180893858" duration="9307000" />
-      <workItem from="1707235415027" duration="2581000" />
+      <workItem from="1707235415027" duration="2854000" />
+      <workItem from="1707265064201" duration="735000" />
     </task>
     <task id="LOCAL-00001" summary="Creando repo">
       <option name="closed" value="true" />
@@ -326,7 +329,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707237860529</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Subiendo ejercicio 17">
+      <option name="closed" value="true" />
+      <created>1707238571410</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1707238571410</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +363,7 @@
     <MESSAGE value="Subiendo ejercicio 3" />
     <MESSAGE value="Subiendo ejercicio 6" />
     <MESSAGE value="Subiendo ejercicio 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Subiendo ejercicio 14" />
+    <MESSAGE value="Subiendo ejercicio 17" />
+    <option name="LAST_COMMIT_MESSAGE" value="Subiendo ejercicio 17" />
   </component>
 </project>
